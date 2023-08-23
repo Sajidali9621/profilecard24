@@ -1,0 +1,55 @@
+.maindiv {
+    background-color: rgb(99, 99, 108);
+    border-radius: 60px;
+    width: 450px;
+    height: 600px;
+    text-align: center;
+    color: white;
+    border-bottom: 8px solid yellow;
+    border-top: 8px solid yellow;
+    margin: auto;
+    margin-top: 60px;
+}
+
+.mypic {
+    width: 180px;
+    margin-top: 5%;
+    border-color: aliceblue;
+    border-radius: 100px;
+    border: 3px solid white;
+    margin-left: 10%;
+}
+
+img {
+    width: 40px;
+    display: ;
+    margin-left: 20px;
+    margin-top: 0px;
+}
+
+button {
+    width: 300px;
+    height: 50px;
+    border-radius: 15px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.fa fa-envelope {
+   margin-left: 10px;
+}
+.email{
+    color: aliceblue;
+    margin-bottom: 150px;
+    margin-left: -100px;
+    size: 50px;
+}
+h1{
+    font-size: 50px;
+    margin-bottom: 0;
+    margin-top: ;
+    border: 2px;
+}
+.fa fa-bell-o{
+    background-color: red;
+}
